@@ -2,6 +2,11 @@
 """
 Real Multi-Source Cosmic Correlation Analysis System
 ====================================================
+
+A comprehensive analysis tool for detecting correlations between gravitational
+wave events and other cosmic/terrestrial phenomena using real data from
+multiple scientific sources.
+
 Uses REAL data from multiple sources:
 - LIGO/Virgo gravitational waves (GWOSC)
 - USGS seismic data
@@ -9,6 +14,21 @@ Uses REAL data from multiple sources:
 - NASA planetary positions
 - NOAA space weather
 - Cosmic ray data
+
+Copyright (C) 2025
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 
 import asyncio
